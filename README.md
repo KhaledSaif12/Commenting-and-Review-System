@@ -12,6 +12,10 @@
         * Enable sorting and filtering of comments and reviews ( e.g. , by date or rating ) . 
         * Provide an option for users to like or dislike comments .
         * Load comments and reviews dynamically without page refresh when there is pagination .
+      
+## ADMIN Dashboard
+![Screenshot (16)](https://github.com/user-attachments/assets/71d3c4ad-4443-4a24-9abe-d23192d42ee5)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

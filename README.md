@@ -1,3 +1,17 @@
+**# Build a Commenting and Review System**
+ 1. - Design the data structure for storing user comments , reviews , ratings , and timestamps . 
+     * The system should allow users to : 
+           * Post comments and reviews . 
+           * Edit and delete their own comments and reviews . 
+           * Rate content with a numerical score ( e.g. , 1 to 5 stars ) . 
+     * Users should be able to : 
+          * View comments and reviews under the relevant content items .
+          * Submit new comments and reviews via a user - friendly form . 
+          * Rate content and see the average rating displayed .
+     * Additional Features 
+        * Enable sorting and filtering of comments and reviews ( e.g. , by date or rating ) . 
+        * Provide an option for users to like or dislike comments .
+        * Load comments and reviews dynamically without page refresh when there is pagination .
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

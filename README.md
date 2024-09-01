@@ -28,6 +28,9 @@
 ![Screenshot (26)](https://github.com/user-attachments/assets/8863b50b-d81f-4718-9bee-ef720767f87a)
 
 ## Login Page
+![Screenshot (28)](https://github.com/user-attachments/assets/4f812654-0a3e-4568-b529-0938c8299645)
+
+## Register Page
 
 
 

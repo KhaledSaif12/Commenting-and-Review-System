@@ -16,6 +16,10 @@
 ## ADMIN Dashboard
 ![Screenshot (16)](https://github.com/user-attachments/assets/71d3c4ad-4443-4a24-9abe-d23192d42ee5)
 
+## Display page
+![Screenshot (19)](https://github.com/user-attachments/assets/1f3f800c-0d7f-4cc4-b5d6-43f46915682f)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

@@ -24,6 +24,9 @@
 ![Screenshot (21)](https://github.com/user-attachments/assets/8f0df3e3-6307-485f-9908-e0f48c4a62cb)
 ![Screenshot (24)](https://github.com/user-attachments/assets/20ab0cb9-6686-494b-82be-aa00ac5df0e3)
 
+## Edit profile
+![Screenshot (25)](https://github.com/user-attachments/assets/b3317f65-c239-4357-8dfd-e7c3b6d9bfef)
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>

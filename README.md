@@ -31,6 +31,7 @@
 ![Screenshot (28)](https://github.com/user-attachments/assets/4f812654-0a3e-4568-b529-0938c8299645)
 
 ## Register Page
+![Screenshot (29)](https://github.com/user-attachments/assets/a7367641-619d-41ca-869c-b2f107a6c514)
 
 
 

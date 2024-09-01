@@ -25,7 +25,6 @@
 ![Screenshot (24)](https://github.com/user-attachments/assets/20ab0cb9-6686-494b-82be-aa00ac5df0e3)
 
 ## Edit profile
-![Screenshot (25)](https://github.com/user-attachments/assets/b3317f65-c239-4357-8dfd-e7c3b6d9bfef)
 
 
 

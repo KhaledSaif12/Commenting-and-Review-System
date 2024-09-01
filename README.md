@@ -22,6 +22,8 @@
 ## Comments page on content
 ![Screenshot (20)](https://github.com/user-attachments/assets/1cd5b76b-6cfb-4671-8dc3-9c60425a6a3b)
 ![Screenshot (21)](https://github.com/user-attachments/assets/8f0df3e3-6307-485f-9908-e0f48c4a62cb)
+![Screenshot (24)](https://github.com/user-attachments/assets/20ab0cb9-6686-494b-82be-aa00ac5df0e3)
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
